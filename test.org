@@ -1,2 +1,6 @@
 * An Org Mode Test
+
+** On formulas
 One of the best known formulas is $E=mc^2$.
+
+* A second chapter
