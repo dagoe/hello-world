@@ -1,7 +1,8 @@
 * An Org Mode Test
 
 ** On formulas
-One of the best known formulas is $E=mc^2$.
+One of the best known formulas is $E=mc^2$. Since $a^2+b^2 = c^2$ we conclude
+$$ E = m(a^2+b^2).$$
 
 * A second chapter
 Let’s try to work with more equations:
