@@ -13,7 +13,7 @@ y = 2
 \end{align*}
 
 \begin{align*}
-  &a^2 + b^2 &= c^2
-  &E &= mc^2\
+  &a^2 + b^2 &= c^2\\
+  &E &= mc^2\\
   \RightArrow & E &= \frac{1}{2} ∫_0a^2+b^2 m t\,dt
 \end{align*}
