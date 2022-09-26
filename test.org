@@ -1,0 +1,21 @@
+* An Org Mode Test
+
+** On formulas
+One of the best known formulas is $E=mc^2$. Since $a^2+b^2 = c^2$ we conclude
+$$ E = m(a^2+b^2).$$
+
+* A second chapter
+Let’s try to work with more equations:
+
+\begin{align*}
+x = 1\\
+y = 2
+\end{align*}
+
+\begin{align*}
+
+  &a^2 + b^2 &= c^2\\
+  &E &= mc^2\\
+  \RightArrow & E &= \frac{1}{2} ∫_0a^2+b^2 m t\,dt
+  
+\end{align*}
